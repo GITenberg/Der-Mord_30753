@@ -1,0 +1,36 @@
+_repo: Der-Mord_30753
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Meidner, Ludwig
+    birthdate: 1884
+    deathdate: 1966
+    gutenberg_agent_id: '34811'
+    url: http://www.gutenberg.org/2009/agents/34811
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Kafka, Franz
+    alias: Kafka, F. (Franz)
+    birthdate: 1883
+    deathdate: 1924
+    gutenberg_agent_id: '1735'
+    url: http://www.gutenberg.org/2009/agents/1735
+    wikipedia: http://en.wikipedia.org/wiki/Franz_Kafka
+description: ''
+gutenberg_bookshelf: DE Prosa
+gutenberg_issued: '2009-12-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30753'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcc 'PT'
+title: Der Mord
+url: http://www.gutenberg.org/ebooks/30753
